@@ -1,0 +1,5 @@
+/workspaces/crudAcademia/src/main/java/com/academia/matricula/repository/AlunoRepository.java
+/workspaces/crudAcademia/src/main/java/com/academia/matricula/MatriculaApplication.java
+/workspaces/crudAcademia/src/main/java/com/academia/matricula/service/AlunoService.java
+/workspaces/crudAcademia/src/main/java/com/academia/matricula/model/Aluno.java
+/workspaces/crudAcademia/src/main/java/com/academia/matricula/controller/AlunoController.java

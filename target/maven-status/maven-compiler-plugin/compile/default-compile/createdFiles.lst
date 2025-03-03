@@ -1,0 +1,5 @@
+com/academia/matricula/MatriculaApplication.class
+com/academia/matricula/model/Aluno.class
+com/academia/matricula/controller/AlunoController.class
+com/academia/matricula/repository/AlunoRepository.class
+com/academia/matricula/service/AlunoService.class
